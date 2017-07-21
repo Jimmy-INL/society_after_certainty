@@ -12,11 +12,11 @@ This book is free. It is my offering to the community of researchers, mathematic
 CHAPTERS
 1. Math & Probability
 2. Feature Transformation and Reduction 
-* 3. Clustering
-* 4. Regression 
-* 5. Classification
-* 6. Ensemble Learning 
-* 7. Reinforcement Learning 
-* 8. Deep Learning 
-* 9. Quantum ML
-* 10. Route Optimization 
+3. Clustering
+4. Regression 
+5. Classification
+6. Ensemble Learning 
+7. Reinforcement Learning 
+8. Deep Learning 
+9. Quantum ML
+10. Route Optimization 
