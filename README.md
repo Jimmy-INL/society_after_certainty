@@ -1,6 +1,6 @@
 # Society After Certainty
 
-This book delves into the math, code and intuition behind some of the most beloved algorithms and heuristics in machine learning. I have assembled what I hope will be an inspiring bouquet, yet the arrangement is by no means exhaustive. In the burgeoning, fecund garden of the history of science, we will linger for a few moments to admire the flowers that happen to be bloom in the year 2017. 
+This book delves into the math, code and intuition behind some of the most beloved algorithms and heuristics in machine learning. I have assembled what I hope will be an inspiring bouquet, yet the arrangement is by no means exhaustive. In the burgeoning, fecund garden of science, we will stroll capriocously and admire the flowers that happen to be bloom in the year 2017. 
 
 I have done my best to fold in a few moments of historical context, real-world applications, and reflection from the humanities, since there are so many facets of our humanity beyond quantiative reasoning that can assist us in our development as scientists. This book also references knowledge traditions beyond the occidental lineage, as I am committed to building a society after certainty, which demands we destabilize the hegemony that mounts whenever we find ourselves speaking of a singular knowledge system that explains all things. Such archaic postures of thought are not becoming to we who dream in multidimsional matrices and champion new horizons of inquiry and inference. 
 
