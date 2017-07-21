@@ -4,7 +4,7 @@ This book delves into the math, code and intuition behind some of the most belov
 
 I have done my best to fold in a few moments of historical context, real-world applications, and reflection from the humanities, since there are so many facets of our humanity beyond quantiative reasoning that can assist us in our development as scientists. I also references knowledge traditions beyond the occidental lineage, as I am committed to destabilizing the hegemony that mounts whenever we find ourselves speaking of a singular knowledge system that explains all things. Such archaic postures of thought are not becoming to we who dream in multidimsional matrices and champion new horizons of inquiry and inference. 
 
-This book is free. It is my offering to the community of researchers, mathematicians, philosophers, and engineers whose collegial sparring have sharpened my mind. If you have found value here, please consider making a donation to a local organization serving and empowering those most in need, such as [Techtonica](https://techtonica.org/) 
+This book is free. It is my offering to the community of researchers, mathematicians, philosophers, and engineers whose collegial dialogue has development my understanding of this material. If you have found value here, please consider supporting a local organization empowering the potential of others, such as [Techtonica](https://techtonica.org/) 
 
 CHAPTERS
 1. Math & Probability
