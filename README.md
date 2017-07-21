@@ -7,7 +7,7 @@ I have done my best to fold in historical context and real-world applications, a
 
 I also believe in building a society after certainty, which demands our committed destabilization of any knowledge system that foolishly positions itself as the great explainer of all things. Such obnoxious postures of thought are not becoming to we who champion new horizons of inference. 
 
-This book is free. It is my offering to the community of researchers, mathematicians, philosophers, and engineers whose collegial sparring have sharpened my mind, and encouraged me to dive deeper into the depths of the unknown. If you have found value here, please consider making a donation to a local organization serving and empowering those most in need, such as !Techtonica(https://techtonica.org/) 
+This book is free. It is my offering to the community of researchers, mathematicians, philosophers, and engineers whose collegial sparring have sharpened my mind, and encouraged me to dive deeper into the depths of the unknown. If you have found value here, please consider making a donation to a local organization serving and empowering those most in need, such as ![Techtonica](https://techtonica.org/) 
 
 CHAPTERS
 * Math & Probability
