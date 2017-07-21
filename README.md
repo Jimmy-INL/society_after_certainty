@@ -10,8 +10,8 @@ This book also touches upon knowledge traditions beyond the occidental lineage. 
 This book is free. It is my offering to the community of researchers, mathematicians, philosophers, and engineers whose collegial sparring have sharpened my mind, and encouraged me to dive deeper into the depths of the unknown. If you have found value here, please consider making a donation to a local organization serving and empowering those most in need, such as ![Techtonica](https://techtonica.org/) 
 
 CHAPTERS
-* 1. Math & Probability
-* 2. Feature Transformation and Reduction 
+1. Math & Probability
+2. Feature Transformation and Reduction 
 * 3. Clustering
 * 4. Regression 
 * 5. Classification
