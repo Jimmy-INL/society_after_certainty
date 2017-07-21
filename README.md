@@ -7,7 +7,7 @@ I have done my best to fold in a few moments of reflection from the humanities, 
 This book is free. It is my offering to the community of researchers, mathematicians, philosophers, and engineers whose collegial dialogue has development my understanding of this material. If you have found value here, please consider supporting a local organization empowering the potential of others, such as [Techtonica](https://techtonica.org/) 
 
 CHAPTERS
-1. Math & Probability
+1. Math & Probability Foundations
 2. Feature Transformation and Reduction 
 3. Clustering
 4. Regression 
