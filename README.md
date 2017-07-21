@@ -2,7 +2,7 @@
 
 This book delves into the math, code and intuition behind some of the most beloved algorithms and heuristics in machine learning. I have assembled what I hope will be an inspiring bouquet, yet the arrangement is by no means exhaustive. In the burgeoning, fecund garden of science, we will stroll capriocously and admire the flowers that happen to be in bloom at this particular moment in history. 
 
-I have done my best to use humor and plain spoken language to ease digestion. I also have sought out data examples that speak to the breadth of ML applications out there, because in my own studies I found myself growing weary of classifying the number five and iris petals.
+I have done my best to use humor and plain spoken language. I have also sought out data examples that speak to the breadth of how these tools can be applied in the real world.
 
 This book is free. If you have found value here, please consider supporting a local organization empowering the potential of others, such as [Techtonica](https://techtonica.org/) 
 
