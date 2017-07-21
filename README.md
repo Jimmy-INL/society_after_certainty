@@ -16,4 +16,4 @@ CHAPTERS
 7. Reinforcement Learning 
 8. Deep Learning 
 9. Quantum ML
-10. Route Optimization 
+10. Swarm Optimization 
