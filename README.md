@@ -17,3 +17,4 @@ CHAPTERS
 8. Deep Learning 
 9. Quantum ML
 10. Optimization 
+11. Agent Based Modeling
