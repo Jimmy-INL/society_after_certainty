@@ -1,10 +1,8 @@
-# Society After Certainty
+# Machine Learning in Complex Systems
 
-This is a machine learning primer delving into the math, code and intuition behind some of the most common and useful algorithms and heuristics. The arrangement is by no means exhaustive, yet represents a suite of tools that can inspire the imaginatoin as to what is possible in machine learning.
+This free online book delves into the math, code and intuition behind some of the most common and useful algorithms and heuristics in machine learning and computational modeling. The scope is by no means exhaustive, yet represents a suite of tools that I hope will inspire your imagination. 
 
-I have done my best to use humor and plain spoken language, because that's more fun. Also, the data examples I use highlight the historical contributions of women in STEM, because women have built awesome things over the years that are worthy of our praise and gratitude.   
-
-This book is free. If you have found value here, please consider supporting a local organization empowering the potential of others, such as [Techtonica](https://techtonica.org/) 
+I have done my best to use humor and plain spoken language, because that's more fun. If you find value here, please consider supporting a local organization empowering the potential of others, such as [Techtonica](https://techtonica.org/) 
 
 CHAPTERS
 1. Math & Probability Foundations
