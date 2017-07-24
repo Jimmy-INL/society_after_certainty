@@ -12,7 +12,7 @@ CHAPTERS
 1. Math & Probability Foundations
 2. Feature Transformation and Reduction 
 3. Clustering
-4. Regression 
+4. [Regression](https://github.com/SioKCronin/society_after_certainty/tree/master/04.Regression) 
 5. Classification
 6. Ensemble Learning 
 7. Reinforcement Learning 
