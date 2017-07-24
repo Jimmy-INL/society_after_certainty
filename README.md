@@ -11,11 +11,10 @@ Also, if you find value here, please consider supporting a local organization em
 CHAPTERS
 1. Math & Probability Foundations
 2. Feature Transformation and Reduction 
-3. Clustering
-4. [Regression](https://github.com/SioKCronin/society_after_certainty/tree/master/04.Regression) 
-5. Classification
-6. Ensemble Learning 
-7. Reinforcement Learning 
-8. Deep Learning 
+3. [Regression](https://github.com/SioKCronin/society_after_certainty/tree/master/04.Regression) 
+4. Classification
+5. Ensemble Learning 
+6. Reinforcement Learning 
+7. Deep Learning 
+8. Optimization 
 9. Quantum ML
-10. Optimization 
