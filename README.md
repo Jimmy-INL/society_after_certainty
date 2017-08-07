@@ -16,5 +16,5 @@ CHAPTERS
 5. Ensemble Learning 
 6. Reinforcement Learning 
 7. Deep Learning 
-8. Optimization 
+8. Stochastic Optimization 
 9. Quantum ML
