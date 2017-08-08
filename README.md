@@ -4,7 +4,7 @@ This free online book delves into the math, code and intuition behind some of th
 
 The title refers to my belief that machine learning can help play a role in fostering new modes of thinking, planning, and building that move our society beyond toxic certainty. As biological creatures, we have blind spots. Our conceptions of reality don't always line up with how reality actually behaves. We are charged with laboring towards more flexible forms of inference and meaning-making that build on the knowledge of our ancestors, yet expand the aperture to include greater understanding of the complexity of existence. We each pursue machine learning for different reasons, and this is why I, personally, am in the game. 
 
-I have done my best to stitch in humor, and promise to use plain spoken language throughout. I also use math notation to make sure we're on the same page. While math equations can look scarry, I've never know them to bite anyone. In fact, I have found them to be quite friendly and cuddley if you get to know them, and they can be loyal companions as you venture into uncharteted research territory. 
+I have done my best to stitch in humor, and promise to use plain spoken language throughout. I also use math notation to make sure we're on the same page. While math equations can look scarry, I have found them to be quite friendly and cuddley if you get to know them, and they can be loyal companions when venturing into uncharteted research terrain. 
 
 If you find value here, please consider making a donation to this awesome organization: [Techtonica](https://techtonica.org/) 
 
