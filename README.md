@@ -18,5 +18,4 @@ CHAPTERS
 7. Deep Learning 
 8. Stochastic Optimization 
 9. Quantum ML
-10. Transportation ML
-11. Pipelines in Production
+10. Pipelines in Production
