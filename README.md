@@ -16,6 +16,6 @@ CHAPTERS
 5. Ensemble Learning 
 6. Reinforcement Learning 
 7. Deep Learning 
-8. Stochastic Optimization 
+8. [Optimization](https://github.com/SioKCronin/society_after_certainty/blob/master/08.Optimization/Optimization.ipynb)
 9. Quantum ML
 10. Pipelines in Production
