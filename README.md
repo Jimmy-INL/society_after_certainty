@@ -13,8 +13,7 @@ CHAPTERS
 2. Feature Engineering
 3. [Classification](https://github.com/SioKCronin/society_after_certainty/blob/master/03.Classification/03.Classification.ipynb)
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
-5. [Ensemble Learning] 
-https://github.com/SioKCronin/society_after_certainty/blob/master/05.Ensemble_Learning/ensemble_learning.ipynb
+5. [Ensemble Learning](https://github.com/SioKCronin/society_after_certainty/blob/master/05.Ensemble_Learning/ensemble_learning.ipynb)
 6. Reinforcement Learning 
 7. Deep Learning 
 8. [Stochastic Optimization](https://github.com/SioKCronin/society_after_certainty/blob/master/08.Stochastic_Optimization/Stochastic_Optimization.ipynb)
