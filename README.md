@@ -10,7 +10,7 @@ If you find value here, please consider making a donation to this awesome organi
 
 CHAPTERS
 1. [Math & Probability Foundations](https://github.com/SioKCronin/society_after_certainty/blob/master/01.Math_and_Probability/Math_and_Probability.ipynb)
-2. Feature Transformation and Reduction 
+2. Feature Engineering
 3. Classification
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
 5. [Ensemble Learning](https://github.com/SioKCronin/society_after_certainty/blob/master/03.Classification/03.Classification.ipynb) 
