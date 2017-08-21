@@ -9,7 +9,7 @@ I promise to use plain spoken language throughout, and only use math notation to
 If you find value here, please consider making a donation to this awesome organization: [Techtonica](https://techtonica.org/) 
 
 CHAPTERS
-1. Math & Probability Foundations
+1. [Math & Probability Foundations](https://github.com/SioKCronin/society_after_certainty/blob/master/01.Math_and_Probability/Math_and_Probability.ipynb)
 2. Feature Transformation and Reduction 
 3. Classification
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
