@@ -13,7 +13,7 @@ CHAPTERS
 2. Feature Transformation and Reduction 
 3. Classification
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
-5. Ensemble Learning 
+5. [Ensemble Learning](https://github.com/SioKCronin/society_after_certainty/blob/master/03.Classification/03.Classification.ipynb) 
 6. Reinforcement Learning 
 7. Deep Learning 
 8. [Stochastic Optimization](https://github.com/SioKCronin/society_after_certainty/blob/master/08.Stochastic_Optimization/Stochastic_Optimization.ipynb)
