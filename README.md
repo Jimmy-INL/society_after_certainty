@@ -11,9 +11,10 @@ If you find value here, please consider making a donation to this awesome organi
 CHAPTERS
 1. [Foundations](https://github.com/SioKCronin/society_after_certainty/blob/master/01.Math_and_Probability/Math_and_Probability.ipynb)
 2. Feature Engineering
-3. Classification
+3. [Classification] (https://github.com/SioKCronin/society_after_certainty/blob/master/03.Classification/03.Classification.ipynb)
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
-5. [Ensemble Learning](https://github.com/SioKCronin/society_after_certainty/blob/master/03.Classification/03.Classification.ipynb) 
+5. [Ensemble Learning] 
+https://github.com/SioKCronin/society_after_certainty/blob/master/05.Ensemble_Learning/ensemble_learning.ipynb
 6. Reinforcement Learning 
 7. Deep Learning 
 8. [Stochastic Optimization](https://github.com/SioKCronin/society_after_certainty/blob/master/08.Stochastic_Optimization/Stochastic_Optimization.ipynb)
