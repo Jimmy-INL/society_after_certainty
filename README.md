@@ -1,6 +1,6 @@
 # Society After Certainty
 
-This free machine learning primer delves into the code and math behind some of the most common and useful algorithms and heuristics in machine learning and predictive modeling. The scope is by no means exhaustive, yet represents a suite of tools I hope you will find inspiring. 
+This free machine learning primer delves into the code and math behind some of the most common and useful algorithms and heuristics in use today. The scope is by no means exhaustive, yet represents a suite of tools I hope you will find inspiring. 
 
 The title refers to my belief that machine learning can help play a role in advancing modes of thinking, planning, and building that leverage distributive, emergent inference. As individual biological creatures, we have blind spots. Our individual conceptions of reality don't always line up with how reality is behaving for the whole. Machine learning is one of many human traditions that is dedicated to developing new forms of inference and meaning-making that build upon our collective capacity to comprehend complexity. Oh, and it's also cool!
 
