@@ -1,8 +1,8 @@
 # Society After Certainty
 
-This free soft computing primer delves into the code and math behind some of the most common and useful algorithms and heuristics in use today. The scope is by no means exhaustive, yet represents a suite of tools I hope you will find inspiring. 
+This free computational intelligence primer delves into the code and math behind some of the most common and useful algorithms and heuristics in use today. It's a fascinating, sprawling field, so the terrain explored here is by no means exhaustive, yet I hope there is enough to inspire you to journey further.
 
-The title refers to my belief that soft computing can play a role a key role in moving society beyond the toxic effects of certainty, and both the individual and institutional levels. As biological creatures, we have blind spots. Our individual conceptions of reality don't always line up with how reality is behaving. Soft computing is one of many human traditions that is dedicated to developing new forms of inference and meaning-making that expand our capacity to comprehend complexity. Oh, and the tools sometimes feel like magic! 
+The title refers to my belief that computational intelligence has a role to play in moving human society beyond its legacy of toxic certainty. As biological creatures, we have blind spots. Our individual practices of mind and conceptions of reality don't always line up with how reality is actually behaving when observed as a complex adaptive system. Computational intelligence is one of a handful of human traditions dedicated to expanding our capacity to comprehend complexity. Oh, and the tools sometimes feel like magic! 
 
 I promise to use plain spoken language throughout, and only use math notation to make sure we're on the same page.  Math equations can sometimes look scarry, but over the years I have found them to be quite friendly and cuddley if you get to know them, and they can be loyal companions when venturing into uncharteted terrain. 
 
