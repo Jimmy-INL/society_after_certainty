@@ -9,7 +9,7 @@ I promise to use plain spoken language throughout, and only use math notation to
 If you find value here, please consider making a donation to this awesome organization: [Techtonica](https://techtonica.org/) 
 
 CHAPTERS
-1. [Foundations](https://github.com/SioKCronin/society_after_certainty/blob/master/01.Math_and_Probability/Math_and_Probability.ipynb)
+1. [Foundations](https://github.com/SioKCronin/society_after_certainty/blob/master/01.Foundations/Foundations.ipynb)
 2. Feature Engineering
 3. [Classification](https://github.com/SioKCronin/society_after_certainty/blob/master/03.Classification/03.Classification.ipynb)
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
