@@ -6,9 +6,7 @@ The title refers to a vision I had which launched me into this line of research.
 
 As biological creatures, we have blind spots. Our individual practices of mind and models of reality don't always line up with reality itself. Rather than cast fantasies into the future, and forever beat our heads against the deltas that emerge between these fantasies and overserved reality,  computational intelligence posits real-time, bottom-up, biologically-inspired modeling heuristics that allow us tune as we go. Adoption of these methods requires a shift in thinking, and it is that shift that I seek to support in this text. 
 
-I promise to use plain English throughout, and only use math notation to illustrate how models work and to make sure we're on the same page. 
-
-If you find value here, please consider making a donation to this awesome organization: [Techtonica](https://techtonica.org/) 
+I promise to use plain English throughout, and only use math notation to illustrate how models work and to make sure we're on the same page. If you find value here, please consider making a donation to this awesome organization: [Techtonica](https://techtonica.org/) 
 
 CHAPTERS
 1. [Foundations](https://github.com/SioKCronin/society_after_certainty/blob/master/01.Foundations/Foundations.ipynb)
@@ -20,4 +18,5 @@ CHAPTERS
 7. Deep Learning 
 8. [Stochastic Optimization](https://github.com/SioKCronin/society_after_certainty/blob/master/08.Stochastic_Optimization/Stochastic_Optimization.ipynb)
 9. [Quantum ML](https://github.com/SioKCronin/society_after_certainty/blob/master/09.Quantum_ML/09.Quantum_ML.ipynb)
-10. Pipelines in Production
+10. Agent Based Modeling
+11. Models in Production
