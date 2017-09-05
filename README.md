@@ -1,10 +1,12 @@
 # Society After Certainty
 
-This free machine learning primer delves into the code and math behind some of the most common and useful algorithms and heuristics in use today. It's a fascinating, sprawling field, so the terrain explored here is by no means exhaustive, yet I hope there is enough to inspire you to journey further.
+This computational intelligence primer delves into the code and math behind some of the most common and useful algorithms and heuristics in use today in the field of soft computing. This is a fascinating and sprawling field, so the terrain explored here is by no means exhaustive, yet I hope there is enough to inspire you to journey further.
 
-The title refers to my belief that computational intelligence has a role to play in moving human society beyond its legacy of toxic certainty. As biological creatures, we have blind spots. Our individual practices of mind and conceptions of reality don't always line up with how reality is actually behaving when observed as a complex adaptive system. Computational intelligence is one of a handful of human traditions dedicated to expanding our capacity to comprehend complexity. Oh, and the tools sometimes feel like magic! 
+The title refers to a vision I had which launched me into this line of research. A vision of the society that will flourish once we move beyond the toxic legacy of reductionist models of complex systems, and the role computational intelligence can play in catalyzing this rennaisance. 
 
-I promise to use plain spoken language throughout, and only use math notation to make sure we're on the same page.  Math equations can sometimes look scarry, but over the years I have found them to be quite friendly and cuddley if you get to know them, and they can be loyal companions when venturing into uncharteted terrain. 
+As biological creatures, we have blind spots. Our individual practices of mind and models of reality don't always line up with reality itself. Rather than cast fantasies into the future, and forever beat our heads against the deltas that emerge between these fantasies and overserved reality,  computational intelligence posits real-time, bottom-up, biologically-inspired modeling heuristics that allow us tune as we go. Adoption of these methods requires a shift in thinking, and it is that shift that I seek to support in this text. 
+
+I promise to use plain English throughout, and only use math notation to illustrate how models work and to make sure we're on the same page. 
 
 If you find value here, please consider making a donation to this awesome organization: [Techtonica](https://techtonica.org/) 
 
