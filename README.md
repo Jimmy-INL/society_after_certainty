@@ -16,5 +16,4 @@ CHAPTERS
 7. Deep Learning 
 8. [Stochastic Optimization](https://github.com/SioKCronin/society_after_certainty/blob/master/08.Stochastic_Optimization/Stochastic_Optimization.ipynb)
 9. [Quantum ML](https://github.com/SioKCronin/society_after_certainty/blob/master/09.Quantum_ML/09.Quantum_ML.ipynb)
-10. Agent Based Modeling
-11. Models in Production
+10. Models in Production
