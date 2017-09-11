@@ -7,13 +7,13 @@ The title refers to a vision I had which launched me into this line of research.
 I promise to use plain English throughout, and only use math notation to illustrate how models work and to make sure we're on the same page. If you find value here, please consider making a donation to this awesome organization: [Techtonica](https://techtonica.org/) 
 
 CHAPTERS
-1. [Foundations](https://github.com/SioKCronin/society_after_certainty/blob/master/01.Foundations/Foundations.ipynb)
+1. Foundations
 2. Feature Engineering
-3. [Classification](https://github.com/SioKCronin/society_after_certainty/blob/master/03.Classification/03.Classification.ipynb)
+3. Classification 
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
-5. [Ensemble Learning](https://github.com/SioKCronin/society_after_certainty/blob/master/05.Ensemble_Learning/ensemble_learning.ipynb)
+5. Ensemble Learning
 6. Reinforcement Learning 
 7. Deep Learning 
 8. [Stochastic Optimization](https://github.com/SioKCronin/society_after_certainty/blob/master/08.Stochastic_Optimization/Stochastic_Optimization.ipynb)
-9. [Quantum ML](https://github.com/SioKCronin/society_after_certainty/blob/master/09.Quantum_ML/09.Quantum_ML.ipynb)
+9. Quantum ML
 10. Models in Production
