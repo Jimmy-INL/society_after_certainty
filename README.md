@@ -1,4 +1,4 @@
-# Society After Certainty
+# Society After Certainty [WIP]
 
 This machine learning primer delves into the code and math behind a handful of machine learning approaches. The terrain explored here is by no means exhaustive, and reflects the specific interests of the author, yet I hope there is enough to inspire you to journey further.
 
