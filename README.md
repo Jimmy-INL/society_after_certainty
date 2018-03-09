@@ -1,6 +1,6 @@
 # Society After Certainty
 
-This machine leanring primer delves into the code and math behind some of the most common and useful concepts in machine learning, as well as a few tangents that hint at the breadth of this sprawling field. The terrain explored here is by no means exhaustive, yet I hope there is enough to inspire you to journey further.
+This machine learning primer delves into the code and math behind a handful of machine learning approaches. The terrain explored here is by no means exhaustive, and reflects the specific interests of the author, yet I hope there is enough to inspire you to journey further.
 
 The title refers to a vision I had which launched me into this line of research. In the vision I caught a glimpse of the society that will flourish once we have moved beyond the toxic legacy of reductionist approahes to complexity modeling. I saw the role computational intelligence could play in catalyzing this rennaisance, and how machine learning in particular could connect the broader umbrella of soft computing with real-world applications.  
 
