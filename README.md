@@ -11,9 +11,7 @@ CHAPTERS
 2. Feature Engineering
 3. Classification 
 4. [Regression](https://github.com/SioKCronin/society_after_certainty/blob/master/04.Regression/04.Regression.ipynb) 
-5. Ensemble Learning
-6. Reinforcement Learning 
-7. Deep Learning 
-8. Optimization
-9. Quantum ML
-10. Models in Production
+5. Reinforcement Learning 
+6. Stochastic Optimization
+7. Quantum ML
+8. ML in Industry
